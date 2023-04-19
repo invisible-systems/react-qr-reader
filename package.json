@@ -1,6 +1,6 @@
 {
-  "name": "react-qr-reader",
-  "version": "3.0.0-beta-1",
+  "name": "@invisible-systems/react-qr-reader",
+  "version": "1.0.0",
   "description": "A React Component for reading QR codes from the webcam",
   "scripts": {
     "build": "rollup -c",
@@ -15,7 +15,7 @@
   "types": "dist/index.d.ts",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/react-qr-reader/react-qr-reader.git"
+    "url": "git+ssh://git@github.com:invisible-systems/react-qr-reader.git"
   },
   "keywords": [
     "react",
@@ -23,12 +23,9 @@
     "qrcode",
     "qrreader"
   ],
-  "author": "thomas billiet",
+  "author": "Invisible Systems",
   "license": "MIT",
-  "bugs": {
-    "url": "https://github.com/react-qr-reader/react-qr-reader/issues"
-  },
-  "homepage": "https://github.com/react-qr-reader/react-qr-reader#readme",
+  "homepage": "https://github.com/invisible-systems/react-qr-reader#readme",
   "peerDependencies": {
     "react": "^16.8.0 || ^17.0.0 || ^18.0.0",
     "react-dom": "^16.8.0 || ^17.0.0 || ^18.0.0"
